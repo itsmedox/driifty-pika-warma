@@ -1,0 +1,78 @@
+{
+  "ADS": {
+
+
+    "networkAd": "yandex",
+   
+    "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+    "inter_max": "37c0fd7e2939a3be",
+    "max_banner": "13482be8f771efc7",
+    "Native_max": "76d87171404718ed",
+
+    "yandex_banner": "R-M-2376521-1",
+  	"yandex_interstitial": "R-M-2376521-3",
+    "yandex_native": "R-M-2376521-2",
+
+    "startapp_id": "139480955",
+
+    "show_cpa": false,
+    "cpa_image": "",
+    "cpa_url": "https://smrturl.co/863b5d2",
+    "cpa_button_text": "Get It Now!",
+  
+    
+
+    "Image_cpaLink" : "",
+    "LinkCpa": "https://smrturl.co/863b5d2",
+
+    "ImageUrl_banner": "",
+    "LinkCpa_banner": "https://smrturl.co/863b5d2",
+    
+    "ImageUrl_banner1": "",
+    "LinkCpa_banner1": "https://smrturl.co/863b5d2",
+    
+    "ImageUrl_banner2": "",
+    "LinkCpa_banner2": "https://smrturl.co/863b5d2",
+
+    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
+    "link_exit": "xxx",
+
+    "privacy" : "https://policies.google.com/privacy?hl=en-US",
+    "url_exit": "xxx",
+    "url_bottom_coins": "",
+
+    "Text_tips1": "Welcome xxx",
+    "Text_tips2": "Welcome xxx",
+    "Text_tips3": "Welcome xxx",
+    "Text_tips4": "Welcome xxx",
+    "Text_tips5": "Welcome xxx",
+    "Text_tips6": "Welcome xxx",
+    "Text_tips7": "Welcome xxx",
+    "Text_tips8": "Welcome xxx",
+
+
+    "Text_title1": "rrrrr",
+    "Text_title2": "rrrrr",
+    "Text_title3": "rrrrr",
+    "Text_title4": "rrrrr",
+    "Text_title5": "rrrrr",
+    "Text_title6": "rrrrr",
+    "Text_title7": "rrrrr",
+    "Text_title8": "rrrrr",
+
+
+    "Text_buttonCoins" : "Male",
+    "Text_buttonTips" : "Women",
+    "Text_buttonmoins" : "- 18",
+    "Text_buttonplus" : "+ 18",
+
+
+    "CpaAds" : "false",
+
+    "Click_inter": "0"
+
+  }
+}
